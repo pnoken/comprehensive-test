@@ -1,0 +1,75 @@
+[
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      2
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      3
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      1
+    ]
+  },
+  {
+    "question_type": "sc",
+    "answer": null,
+    "options": [
+      0
+    ]
+  },
+  {
+    "question_type": "oe",
+    "answer": "The primary difference between deploying a DApp to a centralized hosting platform like Vercel versus a decentralized network like IPFS is data control. In centralized hosting, the hosting provider controls the servers and data, while in decentralized hosting, data is distributed across a peer-to-peer network, with no single entity having control.",
+    "options": null
+  },
+  {
+    "question_type": "oe",
+    "answer": "done",
+    "options": null
+  }
+]
